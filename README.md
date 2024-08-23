@@ -40,14 +40,14 @@ Developer who love beautiful & funny web application
 
 ~ 2025.02 : Studying Software Major in KNUT
 
-2024~2025 : Leading KNUT LIKELION Univ 12th
+2024~2025 : Leading KNUT LIKELION Univ 12th (Start Up & Web SW Developing Club)
 
 -----
 
 ## 📑Project 1 : NetWorker
 - Github Repository : [NetWorker](https://github.com/MystyS2/Networker)
-- Community for foreign worker's Wellness
+- Community Web Service for foreign worker's Wellness
 - Project Period : 2024.07.08 ~ 2024.08.07
 - Role : Team Leader(PM), Front-end Developer
-- Used Tech : HTML, CSS, JavaScript, Java, Springboot, MySQL, AWS EC2, Toss Payments module, Azure translation API, etc..
+- Used Tech : HTML, CSS, JavaScript, Toss Payments module, (Java, Springboot, MySQL, AWS EC2, Azure translation API, etc..)
 - Team Headcounts : 6
