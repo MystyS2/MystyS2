@@ -48,6 +48,6 @@ Developer who love beautiful & funny web application
 - Github Repository : [NetWorker](https://github.com/MystyS2/Networker)
 - Community for foreign worker's Wellness
 - Project Period : 2024.07.08 ~ 2024.08.07
-- Role : Team Leader, Front-end Developer
+- Role : Team Leader(PM), Front-end Developer
 - Used Tech : HTML, CSS, JavaScript, Java, Springboot, MySQL, AWS EC2, Toss Payments module, Azure translation API, etc..
 - Team Headcounts : 6
